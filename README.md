@@ -60,7 +60,21 @@ return {
 vim.pack.add({"https://github.com/nyoom-engineering/oxocarbon.nvim"})
 ```
 
-### Usage
+### rocks.nvim
+
+Using the command:
+```
+:Rocks install oxocarbon.nvim
+```
+
+Adding it to your `rocks.toml`:
+```
+[plugins]
+"oxocarbon.nvim" = { version = "scm-1", opt = true }
+```
+
+
+## Usage
 
 ```lua
 vim.opt.background = "dark" -- set this to dark or light
