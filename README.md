@@ -46,7 +46,8 @@ And many others should "just work!" If you have a plugin that needs explicit hig
 
 ```lua
 return {
-  "nyoom-engineering/oxocarbon.nvim"
+  "nyoom-engineering/oxocarbon.nvim",
+  build = false,
   -- Add in any other configuration; 
   --   event = foo, 
   --   config = bar
