@@ -385,7 +385,7 @@ vim.api.nvim_set_hl(0, "BlinkCmpScrollBarThumb", {fg = oxocarbon.none, bg = oxoc
 vim.api.nvim_set_hl(0, "BlinkCmpScrollBarGutter", {fg = oxocarbon.none, bg = oxocarbon.base02})
 vim.api.nvim_set_hl(0, "BlinkCmpLabel", {fg = "#adadad", bg = oxocarbon.none})
 vim.api.nvim_set_hl(0, "BlinkCmpLabelDeprecated", {fg = oxocarbon.base03, bg = oxocarbon.none, italic = true})
-vim.api.nvim_set_hl(0, "BlinkCmpLabelMatch", {fg = oxocarbon.base08, bg = oxocarbon.none, bold = true})
+vim.api.nvim_set_hl(0, "BlinkCmpLabelMatch", {fg = oxocarbon.base05, bg = oxocarbon.none, bold = true})
 vim.api.nvim_set_hl(0, "BlinkCmpLabelDetail", {fg = oxocarbon.base04, bg = oxocarbon.none, italic = true})
 vim.api.nvim_set_hl(0, "BlinkCmpLabelDescription", {fg = oxocarbon.base04, bg = oxocarbon.none})
 vim.api.nvim_set_hl(0, "BlinkCmpSource", {fg = oxocarbon.base04, bg = oxocarbon.none, italic = true})
