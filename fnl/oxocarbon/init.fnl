@@ -659,7 +659,7 @@
 (custom-set-face! :BlinkCmpMenu [] {:fg oxocarbon.base04 :bg oxocarbon.base01})
 (custom-set-face! :BlinkCmpMenuBorder [] {:fg oxocarbon.base03 :bg oxocarbon.base01})
 (custom-set-face! :BlinkCmpMenuSelection [:default]
-                  {:fg oxocarbon.base05 :bg oxocarbon.base02 :bold true})
+                  {:fg oxocarbon.none :bg oxocarbon.none })
 (custom-set-face! :BlinkCmpScrollBarThumb [] {:fg oxocarbon.none :bg oxocarbon.base03})
 (custom-set-face! :BlinkCmpScrollBarGutter [] {:fg oxocarbon.none :bg oxocarbon.base02})
 (custom-set-face! :BlinkCmpLabel [] {:fg "#adadad" :bg oxocarbon.none})

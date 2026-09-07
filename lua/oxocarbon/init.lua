@@ -380,7 +380,7 @@ vim.api.nvim_set_hl(0, "CmpItemKindValue", {fg = oxocarbon.base01, bg = oxocarbo
 vim.api.nvim_set_hl(0, "CmpItemKindEnumMember", {fg = oxocarbon.base01, bg = oxocarbon.base15})
 vim.api.nvim_set_hl(0, "BlinkCmpMenu", {fg = oxocarbon.base04, bg = oxocarbon.base01})
 vim.api.nvim_set_hl(0, "BlinkCmpMenuBorder", {fg = oxocarbon.base03, bg = oxocarbon.base01})
-vim.api.nvim_set_hl(0, "BlinkCmpMenuSelection", {fg = oxocarbon.base05, bg = oxocarbon.base02, bold = true, default = true})
+vim.api.nvim_set_hl(0, "BlinkCmpMenuSelection", {fg = oxocarbon.none, bg = oxocarbon.none, default = true})
 vim.api.nvim_set_hl(0, "BlinkCmpScrollBarThumb", {fg = oxocarbon.none, bg = oxocarbon.base03})
 vim.api.nvim_set_hl(0, "BlinkCmpScrollBarGutter", {fg = oxocarbon.none, bg = oxocarbon.base02})
 vim.api.nvim_set_hl(0, "BlinkCmpLabel", {fg = "#adadad", bg = oxocarbon.none})
